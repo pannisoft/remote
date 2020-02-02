@@ -11,4 +11,7 @@ public class Bla {
 		// develop 3
 	}
 
+	public void feature() {
+		// feature
+	}
 }
