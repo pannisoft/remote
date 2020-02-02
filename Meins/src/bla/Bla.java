@@ -6,5 +6,8 @@ public class Bla {
 		// bla
 
 	}
+	
+	public void develop() {
+	}
 
 }
